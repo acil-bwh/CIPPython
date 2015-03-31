@@ -1,0 +1,10 @@
+Miniconda current versions:
+
+# NAME:  Miniconda
+# VER:   3.9.1
+# PLAT:  osx-64
+# DESCR: 2.1.0-819-g1418d2a
+# BYTES:  18831231
+# LINES: 317
+# MD5:   1a41d36866f7caf81199a2044f1d8f0a
+# Date downloaded: 2015-03-31
