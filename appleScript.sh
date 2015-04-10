@@ -1,6 +1,6 @@
-if [ -e $1 ] 
+if [ -e $2 ] 
 	then 
-		echo "CIPPython already exists. Miniconda will not be installed"
+		echo "$2 already exists. Miniconda will not be installed"
 	else 
-		bash ./Miniconda-MacOSX-64.sh -f -b -p $1
+		bash $1/Miniconda-MacOSX-64.sh -f -b -p $2
 fi
