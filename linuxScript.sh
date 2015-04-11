@@ -1,4 +1,6 @@
-if [ -e $2 ] 
+#!/bin/bash
+
+if [ -e $2 ]
 	then 
 		echo "$2 already exists. Miniconda will not be installed"
 	else 
